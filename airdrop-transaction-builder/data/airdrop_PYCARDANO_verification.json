@@ -1,0 +1,76 @@
+{
+  "transaction_info": {
+    "total_recipients": 10,
+    "total_ada": 8383.54,
+    "cbor_length": 2386,
+    "generated_with": "PyCardano",
+    "status": "READY_FOR_ETERNL_IMPORT"
+  },
+  "recipients": [
+    {
+      "index": 1,
+      "address": "addr1q8lraj8prxnghv8n0lluplqvpka9ksf4040j7nf4d0nyjyj0pqs3ylqenywp8uswswweydapyzkk362atpxj08slh04qyu9ktz",
+      "ada_amount": 1423.23,
+      "lovelace": 1423230000
+    },
+    {
+      "index": 2,
+      "address": "addr1q938r7fpat04r4ez2wlzxjja8eet0w23dem4ewdr0zm38w37p4fq8atf89dg0phalvsu6sej44lqweyjappga8h4fffslcm404",
+      "ada_amount": 1032.96,
+      "lovelace": 1032960000
+    },
+    {
+      "index": 3,
+      "address": "addr1qy8xk7vpnt57uf4mxsufa3e8duhzdsk29rutxsl9a9vrqx0cfhw263dnxtwyfg8yff3m3yeqezu4tum7zcltm8e0s6cqg22709",
+      "ada_amount": 938.22,
+      "lovelace": 938220000
+    },
+    {
+      "index": 4,
+      "address": "addr1q88e699w9lwe9v8qxru7yzd9j684esddj53urd2zyerqxwvr2dyv83yyqy8r6kyda0g0jrq8vn2r68aqde0ay8n5clqqg2pnyd",
+      "ada_amount": 787.84,
+      "lovelace": 787840000
+    },
+    {
+      "index": 5,
+      "address": "addr1q8quch993qjm5fqs0444zkrcp39lucl4p2aq0tmjdrdwl443f4p9yzx087j4lztest9z3kf6ug8md0pr4l96fdax5y3sh7m7g3",
+      "ada_amount": 773.59,
+      "lovelace": 773590000
+    },
+    {
+      "index": 6,
+      "address": "addr1q84c2eggrx89y39eleqvk4techr8l9x2a470aavddsm9umq2x9nyalh2rxzjwtr4x89ja3sq2xk6wyu3qhk3yflxukqqe5fzrs",
+      "ada_amount": 737.49,
+      "lovelace": 737490000
+    },
+    {
+      "index": 7,
+      "address": "addr1q8c84v9cl3pke3hun84jy3wpscc5x2gkzj8tdd5fwfku93gfz9scp6srug9v9vyz2fvgm52y5yp25hw24a5x0ssgvt8q906dj0",
+      "ada_amount": 704.84,
+      "lovelace": 704840000
+    },
+    {
+      "index": 8,
+      "address": "addr1qyj6rg2amwuh7tspjrugs64u0x6s7hx777rplttk4fy5sjpk0sy73n24y70wehtswdre7madk9vdxxvwu9pndm8c2d7sh2mzug",
+      "ada_amount": 697.49,
+      "lovelace": 697490000
+    },
+    {
+      "index": 9,
+      "address": "addr1qyhf7wsgw9dsxpktx5hss8vy46x8h8eplpjj70wjldsr3eu3d2tzd3pwrff7f6y49x5v6dnvv622ezkanajmt4pjtywsnegstv",
+      "ada_amount": 650.81,
+      "lovelace": 650810000
+    },
+    {
+      "index": 10,
+      "address": "addr1q83ssq7cnqglkwqrw65ldvhefg2m6xcwdp96cygj3pgd7jczpzgv5kztm5cl98x76e35vy9fea7zm2g03ql5llm7dzas2c5jxv",
+      "ada_amount": 637.07,
+      "lovelace": 637070000
+    }
+  ],
+  "cbor_preview": {
+    "first_100_chars": "84a30081825820aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa00018a82583901fe3ec8e1",
+    "last_100_chars": "706b2e2e2e747977736e65677374767821616464723171383373737137636e71676c6b77712e2e2e647a61733263356a7876",
+    "total_length": 2386
+  }
+}
